@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ganesh rajesh gurkhude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganesh rajesh gurkhude" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ganesh-gurkhude-52bb66233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganesh rajesh gurkhude" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
